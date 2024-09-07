@@ -16,10 +16,11 @@ To better capture the temporal patterns and seasonal effects, I employed a SARIM
 **5. Conclusions**
 From the analysis, I concluded that the linear regression model is inadequate for analyzing temperature data because it doesn’t account for the time-related and seasonal factors. The SARIMA model, on the other hand, offered more reliable results and indicated that Budapest’s temperatures are likely to keep rising in the future.
 
-Overall, the analysis confirmed that Budapest is warming, and using the SARIMA model allowed me to make more reliable predictions about future temperature trends.
+Overall, the analysis confirmed that Budapest is warming.
 
 
 // HUN 
+
 Az elemzésem célja Budapest hosszú távú hőmérsékleti trendjeinek vizsgálata volt, hogy megállapítsam, vajon tapasztalható-e felmelegedés a városban. Az elemzést több lépésben végeztem, különböző statisztikai modellek és vizualizációs technikák segítségével.
 
 **1. Adattisztítás és előkészítés**
@@ -37,4 +38,4 @@ Annak érdekében, hogy jobban figyelembe vegyem az időbeli mintázatokat és a
 **5. Következtetések**
 Az elemzésből kiderült, hogy a lineáris regresszió nem megfelelő a hőmérsékleti adatok elemzésére, mivel nem veszi figyelembe az időbeli és szezonális hatásokat. A SARIMA modell viszont pontosabb eredményeket adott, és arra utalt, hogy Budapest hőmérséklete a jövőben tovább emelkedhet.
 
-Összességében az elemzés megerősítette, hogy Budapest hőmérséklete emelkedik, és a SARIMA modell segítségével megbízhatóbb előrejelzéseket tudtam készíteni a jövőbeli trendekről.
+Összességében az elemzés megerősítette, hogy Budapest hőmérséklete emelkedik.
